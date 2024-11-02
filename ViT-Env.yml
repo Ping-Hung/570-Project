@@ -1,0 +1,6 @@
+name: ViT-Env
+channels:
+  - defaults
+dependencies:
+  - pytorch
+prefix: C:\Users\Nick\miniconda3\envs\ViT-Env
